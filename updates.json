@@ -3,7 +3,7 @@
     "version": "1.0",
     "version_code": 1,
     "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.0.exe",
-    "sha256": "F985A8F8CAF5F6449A05AAF8362BAD69B95F47AC8F234FE70B86153D806D0752",
+    "sha256": "C1FFD4BBE7A53320C23855946700267917AD4DBAFE102B31A8DC04062545FD4C",
     "mandatory": false,
     "notes": "www.densfridel.com"
   },
@@ -11,7 +11,7 @@
     "version": "1.0",
     "version_code": 1,
     "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.0.apk",
-    "sha256": "3CEA5404CDB1DB149891599A6D0A8B78950F532A06EAD736F832155BE6FD1E60",
+    "sha256": "B424E0B31A038C8D8000141269E37E0D7F6C59318C94BE803396E660AD7438B4",
     "mandatory": false,
     "notes": "www.densfridel.com"
   },
@@ -19,7 +19,7 @@
     "version": "1.0",
     "version_code": 1,
     "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Signal.Publisher.1.0.exe",
-    "sha256": "747DD170110DF7DE3C5ED3C847BAA92EC4A7590D76FBB8E4747B5054AF45DC1E",
+    "sha256": "5218AE16108A577D89E92DBEA872EF143232B2D624863527F6992171F3507523",
     "mandatory": false,
     "notes": "www.densfridel.com"
   }
