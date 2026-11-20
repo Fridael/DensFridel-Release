@@ -10,7 +10,7 @@
   "bridge_android": {
     "version": "1.1",
     "version_code": 2,
-    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.1/DensFridel.Bridge.1.1.apk",
+    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.1.apk",
     "sha256": "4815545B54D2D83059B45119B89CDB400869849FD022B9ECA9AB229DB1764166",
     "mandatory": false,
     "notes": "Auto-validate schedule after paste, comma/dot decimal support, and Olymptrade order execution fix."
