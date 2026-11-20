@@ -8,12 +8,12 @@
     "notes": "www.densfridel.com"
   },
   "bridge_android": {
-    "version": "1.1",
-    "version_code": 2,
-    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.1.apk",
-    "sha256": "4DBAB049C8C1953E0E271B1B4B80F2492A56B389C55ABB524236238D51F3CAF5",
+    "version": "1.2",
+    "version_code": 3,
+    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.2.apk",
+    "sha256": "383C2F9F56C03CBCFA11F0BC293357792DF731478A899C7FEDD52D5D1053C404",
     "mandatory": false,
-    "notes": "Auto-validate schedule after paste, comma/dot decimal support, and Olymptrade order execution fix."
+    "notes": "Responsive Auto Trade overlay for all screen sizes and universal Olymptrade order execution fix."
   },
   "signal_publisher": {
     "version": "1.0",
