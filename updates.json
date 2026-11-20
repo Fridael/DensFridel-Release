@@ -14,7 +14,7 @@
         "sha256": "AAD1D2D1AE74A30A69C67F63FD154BBDD41EB058741D60DF1E078F1AA50D74C6",
         "mandatory": true,
         "notes": "Fixed Android 15+ (Samsung One UI 7+) Edge-to-Edge layout overlap on top Status Bar and bottom 3-Button/Gesture Navigation Bar."
-    }
+    },
   "signal_publisher": {
     "version": "1.0",
     "version_code": 1,
@@ -24,3 +24,4 @@
     "notes": "www.densfridel.com"
   }
 }
+
