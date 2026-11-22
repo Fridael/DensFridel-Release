@@ -11,7 +11,7 @@
         "version": "1.4",
         "version_code": 5,
         "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.4.apk",
-        "sha256": "EFEF6F2814ACAD2D7E1A6DCBB06562AEC2B190D809C27592DA19B712E7F0F67F",
+        "sha256": "D6E0B1207380A3F94FD340F82E7E213E6CCD0719B61EDC989E5C3772614AC2E7",
         "mandatory": true,
         "notes": "Added independent Daily Stop Loss & Take Profit (%/Nominal), TradingView dark theme polish, and fixed broker login session stability."
     },
