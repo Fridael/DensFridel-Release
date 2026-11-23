@@ -2,7 +2,7 @@
   "bridge_desktop": {
     "version": "1.1",
     "version_code": 2,
-    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.0.exe",
+    "download_url": "https://github.com/Fridael/DensFridel-Release/releases/download/v1.0/DensFridel.Bridge.1.1.exe",
     "sha256": "754BCC0D24BD77E095A064191DD86C74929A6FCA06342DE447E493FFEDA73C66",
     "mandatory": true,
     "notes": "Replaced Loss Trading Limit with Daily Stop Loss, added Daily Take Profit (% & Fixed Amount), added Auto-Resume Cooling-Off Engine (Cooldown Timer & Specific Clock Time with independent SL/TP triggers), and refreshed Trading Control card UI for Olymptrade & Stockity."
